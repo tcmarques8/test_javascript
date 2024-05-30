@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+/* Style for the cells in the Sudoku table */
+td {
+    width: 40px;
+    border: 1px solid black;
+    height: 40px;
+}
